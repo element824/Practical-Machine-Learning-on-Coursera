@@ -1,5 +1,7 @@
 ## Quiz 4.
 "
+REF: https://github.com/Xiaodan/Coursera-Practical-Machine-Learning/blob/master/week4/week4.R
+
 For this quiz we will be using several R packages. 
 R package versions change over time, 
 the right answers have been checked using the following versions of the packages. 
